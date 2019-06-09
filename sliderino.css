@@ -1,0 +1,52 @@
+body{
+	background-color:black;
+}
+
+h1{
+	margin-top:2%;
+	z-index:1;
+	font-weight:bold;
+	font-family: "Arial Black", Gadget, sans-serif;
+	color:red;
+	size:30em;
+	text-align: center;
+}
+
+img{
+	top:10%;
+	z-index:-1;
+	position:absolute;
+	width:80%;
+	height:800px;
+	margin-left:10%;
+	border-radius:2%;
+}
+
+input{
+	z-index:1;
+	position:absolute;
+}
+
+#baldur{
+	text-align:center;
+	padding-top:30px;
+	border:none;
+	background-color:red;
+	color:white;
+	font-size:15px;
+	top:50%;
+	margin-left:8.8%;
+
+
+}
+
+#mimir{
+	text-align:center;
+	padding-top:30px;
+	border:none;
+	background-color:red;
+	color:white;
+	font-size:15px;
+	top:50%;
+	margin-left:90%;
+}
